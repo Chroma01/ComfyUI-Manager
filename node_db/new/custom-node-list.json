@@ -1,6 +1,26 @@
 {
     "custom_nodes": [
         {
+            "author": "oitsukiii",
+            "title": "ComfyUI-ImmichManager",
+            "reference": "https://github.com/oitsukiii/ComfyUI-ImmichManager",
+            "files": [
+                "https://github.com/oitsukiii/ComfyUI-ImmichManager"
+            ],
+            "install_type": "git-clone",
+            "description": "Upload ComfyUI-generated images/videos directly to Immich (PNG/MP4 with embedded workflow metadata), with a built-in asset timeline & management panel (thumbnails, favorites, trash, batch ops). SSRF-checked; config and token routes are local-only unless a panel token is presented."
+        },
+        {
+            "author": "ukr8b3g-cmyk",
+            "title": "ComfyUI-MOSS-Emphasis",
+            "reference": "https://github.com/ukr8b3g-cmyk/ComfyUI-MOSS-Emphasis",
+            "files": [
+                "https://github.com/ukr8b3g-cmyk/ComfyUI-MOSS-Emphasis"
+            ],
+            "install_type": "git-clone",
+            "description": "Experimental beta: settings-controlled MOSS-Image prompt weights for ordinary ComfyUI text inputs. Actual ComfyUI browser UI and MOSS GPU generation remain unverified."
+        },
+        {
             "author": "martianacademy",
             "title": "ComfyUI-PhobosStream",
             "reference": "https://github.com/martianacademy/ComfyUI-PhobosStream",
